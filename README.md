@@ -233,11 +233,11 @@
 
 <h1 align="left"><b>Connect with me</b></h1><br>
 <p align="left">
-<a href="https://linkedin.com/in/64maverick97"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" title="LinkedIn" alt="Sharath" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/19712524/sharath"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" title="Stack Overflow" height="30" width="40" /></a>
-<a href="https://fb.com"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" title="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com"><img align="center" src="https://www.svgrepo.com/show/299481/instagram.svg" title="Instagram" height="32" width="40" /></a>
-<a href="https://mail.google.com/mail/u/?authuser=prabhusharath.06@gmail.com"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" title="Gmail" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/64maverick97"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" title="LinkedIn" alt="Sharath" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/19712524/sharath"><img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" title="Stack Overflow" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://fb.com"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" title="Facebook" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com"><img align="center" src="https://www.svgrepo.com/show/299481/instagram.svg" title="Instagram" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/u/?authuser=prabhusharath.06@gmail.com"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" title="Gmail" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 <p align="right" style="color:lightseagreen;"><i><b>~ Sharath<i><b></p>
