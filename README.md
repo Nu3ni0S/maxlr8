@@ -206,11 +206,11 @@
 
 <h3 align="Left"><b>Tools</b></h3><br>
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" /></a>
-<a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="jira" height="45" /></a>
-<a href="https://www.jenkins.io/"><img src="./source/jenkins.jpg" alt="jenkins" title="Jenkins" height="45" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="vscode" /></a>
-<a href="https://www.tableau.com/"><img src="./source/tableau.jpg" alt="tableau" title="Tableau" height="45" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" /></a>&nbsp;
+<a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="jira" height="46" /></a>&nbsp;
+<a href="https://www.jenkins.io/"><img src="./source/jenkins.jpg" alt="jenkins" title="Jenkins" height="46" /></a>&nbsp;
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="vscode" /></a>&nbsp;
+<a href="https://www.tableau.com/"><img src="./source/tableau.jpg" alt="tableau" title="Tableau" height="46" /></a>&nbsp;
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="figma" /></a>
 </p><br><br>
 
