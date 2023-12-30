@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .hover-container {
-    position: relative;
-    display: inline-block;
-    }
-    .hover-text {
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    background-color: #000; /* Black background */
-    color: #fff; /* White text */
-    padding: 5px; /* Smaller padding */
-    border-radius: 4px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Slightly darker shadow */
-    transition: opacity 0.3s ease-in-out;
-    white-space: nowrap;
-    }
-    .hover-container:hover .hover-text {
-    opacity: 0.7;
-    }
-  </style>
-</head>
-<body>
-
-<h1 align="center" ><b>Hello, I'm Sharath!</b></h1>
+<h1 align="center"><b>Hello, I'm Sharath!</b></h1>
 
 <p align="center"><img src="./source/AI.gif" width="1770" height=""></p>
 
@@ -286,28 +255,20 @@
 
 <h1 align="left"><b>Connect with me</b></h1><br>
 <p align="left">
-  <a href="https://linkedin.com/in/64maverick97" class="hover-container">
-    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Sharath" height="40" width="40" />
-    <span class="hover-text">LinkedIn</span>
+  <a href="https://linkedin.com/in/64maverick97">
+    <img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" title="LinkedIn" alt="Sharath" height="40" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/19712524/sharath" class="hover-container">
-    <img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" height="30" width="40" />
-    <span class="hover-text">Stack Overflow</span>
+  <a href="https://stackoverflow.com/users/19712524/sharath">
+    <img align="center" src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" title="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://fb.com" class="hover-container">
-    <img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" height="30" width="40" />
-    <span class="hover-text">Facebook</span>
+  <a href="https://fb.com">
+    <img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" title="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com" class="hover-container">
-    <img align="center" src="https://www.svgrepo.com/show/299481/instagram.svg" height="32" width="40" />
-    <span class="hover-text">Instagram</span>
+  <a href="https://instagram.com">
+    <img align="center" src="https://www.svgrepo.com/show/299481/instagram.svg" title="Instagram" height="32" width="40" />
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=prabhusharath.06@gmail.com" class="hover-container">
-    <img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" height="35" width="40" />
-    <span class="hover-text">Gmail</span>
+  <a href="https://mail.google.com/mail/u/?authuser=prabhusharath.06@gmail.com">
+    <img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" title="Gmail" height="35" width="40" />
   </a>
 </p>
 <p align="right" style="color:lightseagreen;"><i><b>~ Sharath<i><b></p>
-
-</body>
-</html>
