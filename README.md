@@ -17,7 +17,7 @@
 <h3 align="Left"><b>Libraries</b></h3><br>
 <p align="left">
   <a href="https://skillicons.dev" class="hover-container">
-    <img src="./source/openai.jpg" alt="openai" style="height: 3.5rem"/>
+    <img src="./source/openai.jpg" alt="openai" height="35" style="height: 3.5rem"/>
     <span class="hover-text">OpenAI</span>
   </a>
   <a href="https://skillicons.dev" class="hover-container">
