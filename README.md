@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="./source/styles.css">
+</head>
+<body>
+
 <h1 align="center" ><b>Hello, I'm Sharath!</b></h1>
 
 <p align="center"><img src="./source/AI.gif" width="1770" height=""></p>
@@ -17,7 +24,7 @@
 <h3 align="Left"><b>Libraries</b></h3><br>
 <p align="left">
   <a href="https://skillicons.dev" class="hover-container">
-    <img src="./source/openai.jpg" alt="openai" height="35" style="height: 3.5rem"/>
+    <img src="./source/openai.jpg" alt="openai" height="40" style="height: 3.5rem"/>
     <span class="hover-text">OpenAI</span>
   </a>
   <a href="https://skillicons.dev" class="hover-container">
@@ -278,4 +285,5 @@
 </p>
 <p align="right" style="color:lightseagreen;"><i><b>~ Sharath<i><b></p>
 
-<link rel="stylesheet" type="text/css" href="./source/styles.css">
+</body>
+</html>
