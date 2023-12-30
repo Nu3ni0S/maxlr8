@@ -206,34 +206,15 @@
 
 <h3 align="Left"><b>Tools</b></h3><br>
 <p align="left">
-  <a href="https://skillicons.dev" class="hover-container">
-    <img src="https://skillicons.dev/icons?i=postman" alt="postman" />
-    <span class="hover-text">Postman</span>
-  </a>
-  <a href="https://www.svgrepo.com/" target="_blank" class="hover-container">
-    <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="jira" style="height: 3.4rem"/>
-    <span class="hover-text">Jira</span>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" class="hover-container">
-    <img src="./source/jenkins.jpg" alt="jenkins" style="height: 3.4rem"/>
-    <span class="hover-text">Jenkins</span>
-  </a>
-  <a href="https://skillicons.dev" class="hover-container">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
-    <span class="hover-text">VS Code</span>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" class="hover-container">
-    <img src="./source/tableau.jpg" alt="tableau" style="height: 3.4rem"/>
-    <span class="hover-text">Tableau</span>
-  </a>
-  <a href="https://skillicons.dev" class="hover-container">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
-    <span class="hover-text">Figma</span>
-  </a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" /></a>
+<a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="jira" height="34" /></a>
+<a href="https://www.jenkins.io/"><img src="./source/jenkins.jpg" alt="jenkins" title="Jenkins" height="34" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="vscode" /></a>
+<a href="https://www.tableau.com/"><img src="./source/tableau.jpg" alt="tableau" title="Tableau" height="34" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="figma" /></a>
 </p><br><br>
 
 <h1 align="center"><b>Statistics</b></h1>
-
 <br>
 <table align="center" border="0">
   <tr>
@@ -246,11 +227,8 @@
 </table><br><br>
 
 <h1 align="center"><b>Activity</b></h1><br>
-
 <div align="center">
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlr8&hide_title=true&bg_color=000000&color=828282&line=00ff1e&point=00ff1e&area=true&hide_border=false" alt="maxlr8" />
-</p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlr8&hide_title=true&bg_color=000000&color=828282&line=00ff1e&point=00ff1e&area=true&hide_border=false" alt="maxlr8" /></p>
 </div><br><br>
 
 <h1 align="left"><b>Connect with me</b></h1><br>
@@ -261,4 +239,5 @@
 <a href="https://instagram.com"><img align="center" src="https://www.svgrepo.com/show/299481/instagram.svg" title="Instagram" height="32" width="40" /></a>
 <a href="https://mail.google.com/mail/u/?authuser=prabhusharath.06@gmail.com"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" title="Gmail" height="35" width="40" /></a>
 </p>
+
 <p align="right" style="color:lightseagreen;"><i><b>~ Sharath<i><b></p>
