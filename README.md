@@ -16,20 +16,20 @@
 
 <h3 align="Left"><b>Libraries</b></h3><br>
 <p align="left">
-<a href="https://openai.com/"><img src= "https://github.com/64sharath97/master/blob/main/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://openai.com/"><img src= "./source/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="pytorch" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://pandas.pydata.org//"><img src= "https://github.com/64sharath97/master/blob/main/pandas.jpg" alt="pandas" title="Pandas" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/stable/"><img src="https://github.com/64sharath97/master/blob/main/scikit_learn.jpg" title="Scikit-Learn" alt="sklearn" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org//"><img src= "./source/pandas.jpg" alt="pandas" title="Pandas" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/stable/"><img src= "./source/scikit_learn.jpg" title="Scikit-Learn" alt="sklearn" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/373938/numpy.svg" title="NumPy" alt="numpy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/"><img src="https://github.com/64sharath97/master/blob/main/hg.jpg" title="HuggingFace" alt="huggingface" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/"><img src= "./source/hg.jpg" title="HuggingFace" alt="huggingface" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow" alt="tensorflow" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://matplotlib.org/"><img src="https://github.com/64sharath97/master/blob/main/matplotlib.jpg" title="Matplotlib" alt="matplotlib" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://scipy.org/"><img src="https://github.com/64sharath97/master/blob/main/scipy.jpg" title="SciPy" alt="scipy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/"><img src="https://github.com/64sharath97/master/blob/main/seaborn.jpg" title="Seaborn" alt="seaborn" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://opencv.org/"><img src="https://github.com/64sharath97/master/blob/main/opencv.jpg" title="OpenCV" alt="opencv" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://plotly.com/"><img src="https://github.com/64sharath97/master/blob/main/plotly.jpg" title="Plotly" alt="plotly" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://spacy.io/"><img src="https://github.com/64sharath97/master/blob/main/spacy.jpg" title="Spacy" alt="spacy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://socket.io/"><img src="https://github.com/64sharath97/master/blob/main/ws.jpg" title="Web-Sockets" alt="websockets" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://matplotlib.org/"><img src= "./source/matplotlib.jpg" title="Matplotlib" alt="matplotlib" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://scipy.org/"><img src= "./source/scipy.jpg" title="SciPy" alt="scipy" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/"><img src= "./source/seaborn.jpg" title="Seaborn" alt="seaborn" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://opencv.org/"><img src= "./source/opencv.jpg" title="OpenCV" alt="opencv" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://plotly.com/"><img src= "./source/plotly.jpg" title="Plotly" alt="plotly" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://spacy.io/"><img src= "./source/spacy.jpg" title="Spacy" alt="spacy" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://socket.io/"><img src= "./source/ws.jpg" title="Web-Sockets" alt="websockets" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 
@@ -41,21 +41,21 @@
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="javascript" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html" title="HTML" alt="html" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=css" title="CSS" alt="css" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.markdownguide.org/"><img src="https://github.com/64sharath97/master/blob/main/markdown.jpg" title="Markdown" alt="markdown" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.markdownguide.org/"><img src= "./source/markdown.jpg" title="Markdown" alt="markdown" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="Left"><b>Frameworks</b></h3><br>
 <p align="left">
-<a href="https://www.langchain.com/"><img src="https://github.com/64sharath97/master/blob/main/langchain.jpg" title="LangChain" alt="langchain" height="48" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com/"><img src= "./source/langchain.jpg" title="LangChain" alt="langchain" height="48" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=django" title="Django" alt="django" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="fastapi" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://spark.apache.org/"><img src="https://github.com/64sharath97/master/blob/main/spark.jpg" title="PySpark" alt="spark" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://spark.apache.org/"><img src= "./source/spark.jpg" title="PySpark" alt="spark" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="Left"><b>Databases</b></h3><br>
 <p align="left">
-<a href="https://www.pinecone.io/"><img src="https://github.com/64sharath97/master/blob/main/pinecone.jpg" title="Pinecone" alt="pinecone" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.pinecone.io/"><img src= "./source/pinecone.jpg" title="Pinecone" alt="pinecone" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=postgresql" title="PostgreDB" alt="postgresdb" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="sqlite" height="46" width="46" /></a>&nbsp;&nbsp;
@@ -75,8 +75,8 @@
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="K8" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="kafka" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://airflow.apache.org/"><img src="https://github.com/64sharath97/master/blob/main/airflow.jpg" title="Apache Airflow" alt="airflow" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://helm.sh/"><img src="https://github.com/64sharath97/master/blob/main/helm.jpg" title="Helm" alt="helm" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://airflow.apache.org/"><img src= "./source/airflow.jpg" title="Apache Airflow" alt="airflow" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://helm.sh/"><img src= "./source/helm.jpg" title="Helm" alt="helm" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="rabbitmq" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="46" width="46" /></a>&nbsp;&nbsp;
@@ -86,9 +86,9 @@
 <p align="left">
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="jira" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io/"><img src="https://github.com/64sharath97/master/blob/main/jenkins.jpg" alt="jenkins" title="Jenkins" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io/"><img src= "./source/jenkins.jpg" alt="jenkins" title="Jenkins" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="vscode" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/"><img src="https://github.com/64sharath97/master/blob/main/tableau.jpg" alt="tableau" title="Tableau" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src= "./source/tableau.jpg" alt="tableau" title="Tableau" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="figma" height="46" width="46" /></a>
 </p><br><br>
 
