@@ -46,7 +46,7 @@
 
 <h3 align="Left"><b>Frameworks</b></h3><br>
 <p align="left">
-<a href="https://www.langchain.com/"><img src= "./source/langchain.jpg" title="LangChain" alt="langchain" height="48" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com/"><img src= "./source/langchain.jpg" title="LangChain" alt="langchain" height="46" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=django" title="Django" alt="django" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="fastapi" height="46" width="46" /></a>&nbsp;&nbsp;
