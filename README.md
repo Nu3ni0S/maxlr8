@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Sharath!</b></h1>
 
-<p align="center"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/AI.gif?raw=true" width="1770" height=""></p>
+<p align="center"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/AI.gif?raw=true" width="1770" height=""></p>
 
 <div >
   <h1 align="center"><b>About Me</b></h1>
@@ -16,20 +16,20 @@
 
 <h3 align="Left"><b>Libraries</b></h3><br>
 <p align="left">
-<a href="https://openai.com/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://openai.com/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="pytorch" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://pandas.pydata.org//"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/pandas.jpg" alt="pandas" title="Pandas" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/stable/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/scikit_learn.jpg" title="Scikit-Learn" alt="sklearn" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org//"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/pandas.jpg" alt="pandas" title="Pandas" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://scikit-learn.org/stable/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/scikit_learn.jpg" title="Scikit-Learn" alt="sklearn" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/373938/numpy.svg" title="NumPy" alt="numpy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/hg.jpg" title="HuggingFace" alt="huggingface" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://huggingface.co/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/hg.jpg" title="HuggingFace" alt="huggingface" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=tensorflow" title="Tensorflow" alt="tensorflow" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://matplotlib.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/matplotlib.jpg" title="Matplotlib" alt="matplotlib" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://scipy.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/scipy.jpg" title="SciPy" alt="scipy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/seaborn.jpg" title="Seaborn" alt="seaborn" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://opencv.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/opencv.jpg" title="OpenCV" alt="opencv" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://plotly.com/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/plotly.jpg" title="Plotly" alt="plotly" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://spacy.io/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/spacy.jpg" title="Spacy" alt="spacy" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://socket.io/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/ws.jpg" title="Web-Sockets" alt="websockets" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://matplotlib.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/matplotlib.jpg" title="Matplotlib" alt="matplotlib" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://scipy.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/scipy.jpg" title="SciPy" alt="scipy" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/seaborn.jpg" title="Seaborn" alt="seaborn" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://opencv.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/opencv.jpg" title="OpenCV" alt="opencv" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://plotly.com/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/plotly.jpg" title="Plotly" alt="plotly" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://spacy.io/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/spacy.jpg" title="Spacy" alt="spacy" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://socket.io/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/ws.jpg" title="Web-Sockets" alt="websockets" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 
@@ -41,21 +41,21 @@
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="javascript" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=html" title="HTML" alt="html" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=css" title="CSS" alt="css" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.markdownguide.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/markdown.jpg" title="Markdown" alt="markdown" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.markdownguide.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/markdown.jpg" title="Markdown" alt="markdown" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="Left"><b>Frameworks</b></h3><br>
 <p align="left">
-<a href="https://www.langchain.com/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/langchain.jpg" title="LangChain" alt="langchain" height="46" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.langchain.com/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/langchain.jpg" title="LangChain" alt="langchain" height="46" width="50" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=django" title="Django" alt="django" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="fastapi" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://spark.apache.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/spark.jpg" title="PySpark" alt="spark" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://spark.apache.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/spark.jpg" title="PySpark" alt="spark" height="46" width="46" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="Left"><b>Databases</b></h3><br>
 <p align="left">
-<a href="https://www.pinecone.io/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/pinecone.jpg" title="Pinecone" alt="pinecone" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.pinecone.io/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/pinecone.jpg" title="Pinecone" alt="pinecone" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="mongodb" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=postgresql" title="PostgreDB" alt="postgresdb" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="sqlite" height="46" width="46" /></a>&nbsp;&nbsp;
@@ -75,8 +75,8 @@
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="docker" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="K8" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="kafka" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://airflow.apache.org/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/airflow.jpg" title="Apache Airflow" alt="airflow" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://helm.sh/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/helm.jpg" title="Helm" alt="helm" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://airflow.apache.org/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/airflow.jpg" title="Apache Airflow" alt="airflow" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://helm.sh/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/helm.jpg" title="Helm" alt="helm" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ" alt="rabbitmq" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="git" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="github" height="46" width="46" /></a>&nbsp;&nbsp;
@@ -86,21 +86,21 @@
 <p align="left">
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="postman" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://www.svgrepo.com/"><img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="jira" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/jenkins.jpg" alt="jenkins" title="Jenkins" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/jenkins.jpg" alt="jenkins" title="Jenkins" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="vscode" height="46" width="46" /></a>&nbsp;&nbsp;
-<a href="https://www.tableau.com/"><img src= "https://raw.githubusercontent.com/maxlr8/master/master/maxlr8/tableau.jpg" alt="tableau" title="Tableau" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://www.tableau.com/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/tableau.jpg" alt="tableau" title="Tableau" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="figma" height="46" width="46" /></a>
 </p><br><br>
 
 <h1 align="center"><b>Statistics</b></h1><br>
 <table align="center" border="0">
-  <tr><th><a><img align="center" height="175px" src="https://streak-stats.demolab.com/?user=maxlr8&theme=dark" /></a></th>
-  <th><a><img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxlr8&show_icons=true&hide_progress=true&theme=dark" /></a></th>
+  <tr><th><a><img align="center" height="175px" src="https://streak-stats.demolab.com/?user=nu3ni0s&theme=dark" /></a></th>
+  <th><a><img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs?username=nu3ni0s&show_icons=true&hide_progress=true&theme=dark" /></a></th>
 </table><br><br>
 
 <h1 align="center"><b>Activity</b></h1><br>
 <div align="center">
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=maxlr8&hide_title=true&bg_color=000000&color=828282&line=00ff1e&point=00ff1e&area=true&hide_border=false" alt="maxlr8" /></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=nu3ni0s&hide_title=true&bg_color=000000&color=828282&line=00ff1e&point=00ff1e&area=true&hide_border=false" alt="nu3ni0s" /></p>
 </div><br><br>
 
 <h1 align="left"><b>Connect with me</b></h1><br>
