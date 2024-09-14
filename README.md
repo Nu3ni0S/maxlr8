@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Sharath!</b></h1>
 
-<p align="center"><img src= "https://raw.githubusercontent.com/Nu3ni0S/nu3ni0s/blob/master/source/AI.gif?raw=true" width="1770" height=""></p>
+<p align="center"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/AI.gif?raw=true" width="1770" height=""></p>
 
 <div >
   <h1 align="center"><b>About Me</b></h1>
@@ -16,7 +16,7 @@
 
 <h3 align="Left"><b>Libraries</b></h3><br>
 <p align="left">
-<a href="https://openai.com/"><img src= "https://raw.githubusercontent.com/Nu3ni0S/master/master/Nu3ni0S/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
+<a href="https://openai.com/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/openai.jpg" title="Open AI" alt="openai" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://skillicons.dev/"><img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="pytorch" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://pandas.pydata.org//"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/pandas.jpg" alt="pandas" title="Pandas" height="46" width="46" /></a>&nbsp;&nbsp;
 <a href="https://scikit-learn.org/stable/"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/scikit_learn.jpg" title="Scikit-Learn" alt="sklearn" height="46" width="46" /></a>&nbsp;&nbsp;
