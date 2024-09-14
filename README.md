@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Sharath!</b></h1>
 
-<p align="center"><img src= "https://raw.githubusercontent.com/nu3ni0s/master/master/nu3ni0s/AI.gif?raw=true" width="1770" height=""></p>
+<p align="center"><img src= "https://github.com/Nu3ni0S/nu3ni0s/blob/master/source/AI.gif?raw=true" width="1770" height=""></p>
 
 <div >
   <h1 align="center"><b>About Me</b></h1>
